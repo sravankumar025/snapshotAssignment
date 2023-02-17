@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Playball', cursive;
+    font-size: 50px;
+    color:rgb(22, 14, 42);
+}
+#header-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+input[type="text"]{
+    height: 30px;
+    width: 345px;
+}
+
+#sub-btn{
+    height: 35px;
+    width: 33px;
+    background-color: rgb(22, 14, 42);
+    cursor: pointer;
+}
+i{
+    color: blanchedalmond;
+}
+
+.btns{
+    height: 30px;
+    width: 85px;
+    background-color: rgb(22, 14, 42);
+    color: white;
+    font-weight: 600;
+    margin:8px;
+    cursor: pointer;
+}
+#btns-container{
+    margin-top: 15px;
+}
